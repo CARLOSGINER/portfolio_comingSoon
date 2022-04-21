@@ -3,8 +3,7 @@
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-*landing page para recibir visitas mientras desarrollo el portafolio* /:octocat: [Visit Webpage Here!](https:www.carlosginerweb.com)
-
+*landing page para recibir visitas mientras desarrollo el portafolio*
 **AUTOR**
 
 > Carlos Giner
